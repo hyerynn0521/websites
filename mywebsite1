@@ -1,0 +1,44 @@
+<!-- πanissimo
+
+Main interests
+Piano
+Check out videos of me practicing various songs:
+Another day of sun
+Moonlight sonata
+flute/piano duets
+
+Math
+Here are some links to some good math youtube channels:
+3blue1brown
+
+
+Coding
+To those of you who are going up to 11th or 12th grade, apply to Girls who code programs! -->
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <link
+    rel="stylesheet"
+    href="website.css">
+  </head>
+  <body>
+    <p>
+      <title><h1><em><strong>pi</strong></em>ANISSIMO</h1></title>
+    </p>
+    <div>
+      <h2>Introduction</h2>
+    </div>
+    <div>
+    <img src="selfie.jpg" length="300" width="105">
+    </div>
+    <div>
+      <h3>math, music, coding!! <div>I have been wating to go into a medical field, but I recently changed
+      my mind becuase of <a href="https://girlswhocode.com/"> Girls Who Code!</a></div>
+      I have been playing piano for 10 years:) <div>If you want to see me play, click <a href="https://www.youtube.com/channel/UCH2P9FNKYNgZL2Nzf56JKhA?view_as=subscriber">here</a></div></h3>
+    </div>
+    <p>
+      <h3>Also, check out my favorite math youtube channel by clicking on the logo:</h3>
+    </p>
+    <a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"><img src="3blue1brown.png" length = "150" width="150"></a>
+  </body>
+</html>
